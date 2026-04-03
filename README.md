@@ -1,4 +1,4 @@
-📖 Descripción completa (para README.md)
+📖 Descripción completa 
 📊 Proyecto: Análisis Exploratorio y Modelado de Datos de Clientes
 
 Este proyecto consiste en la generación, exploración y análisis de un conjunto de datos simulados de clientes, con el objetivo de comprender patrones de comportamiento y construir modelos predictivos.
