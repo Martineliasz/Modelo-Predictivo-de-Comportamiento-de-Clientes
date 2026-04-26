@@ -138,8 +138,8 @@ jupyter notebook ProyectoModulo4F.ipynb
 **[Tu Nombre]**
 Analista de Datos | Python · SQL · Visualización · Estadística
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/tu-perfil)
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=flat&logo=github)](https://github.com/tu-usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](linkedin.com/in/martín-rojas-páez)
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=flat&logo=github)](github.com/Martineliasz)
 
 ---
 
