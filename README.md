@@ -138,7 +138,7 @@ jupyter notebook ProyectoModulo4F.ipynb
 ** Martin Rojas **
 Analista de Datos | Python · SQL · Visualización · Estadística
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](linkedin.com/in/martín-rojas-páez)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](www.linkedin.com/in/martín-rojas-páez)
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=flat&logo=github)](github.com/Martineliasz)
 
 ---
